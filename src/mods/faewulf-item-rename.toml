@@ -1,0 +1,7 @@
+name = "Faewulf's Item Rename"
+links.curseforge = 'https://www.curseforge.com/minecraft/mc-mods/item-rename'
+links.github = 'https://github.com/FaeWulf/item-rename'
+links.modrinth = 'https://modrinth.com/mod/faewulf-itemrename'
+categories = [
+        'inventory'
+]
